@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>logo bp.png</file>
+    <file>download (32).jpg</file>
+  </qresource>
+</RCC>
